@@ -166,13 +166,13 @@ main = do
 Save the above program in a file named `Main.hs`, compile it with:
 
 ```bash
-ghc Main.hs
+ghc SimpleFunctionalLanguage.hs
 ```
 
 Run the compiled program:
 
 ```bash
-./Main
+./SimpleFunctionalLanguage
 ```
 
 This will display the original term, the evaluated term, and its type.
